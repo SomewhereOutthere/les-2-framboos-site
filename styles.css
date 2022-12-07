@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+.sub-intro {
+    font-size: 20px;
+}
+
+.font {
+    font-weight: bold;
+}
+
+
+h1 {
+    text-decoration: underline;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+.background-color {
+    background-color: #DFD9E2;
+}
+
+
+h1, h2, h3 {
+    color: #865B9A;
+}
+
+.button-color:hover {
+    background-color: #865B9A ;
+}
